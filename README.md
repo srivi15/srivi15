@@ -40,7 +40,7 @@ You can contact me on [Twitter](https://twitter.com/srivisaysso) or [Instagram](
 
 
 #### My github stats:
-[![Srividhya's github stats](https://github-readme-stats.vercel.app/api?username=srivi15&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Srividhya's github stats](https://github-readme-stats.vercel.app/api?username=srivi15&show_icons=true&theme=tokyonight)](https://github.com/srivi15)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivi15&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
