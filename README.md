@@ -2,8 +2,8 @@
 
 ### Hi there 👋, I am Srividhya.
 [![Twitter: srivisaysso](https://img.shields.io/twitter/follow/srivisaysso?style=social)](https://twitter.com/srivisaysso)
-[![Linkedin: srividhya-ranganathan](https://img.shields.io/badge/srividhya-ranganathan?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/srividhya-ranganathan/)](https://www.linkedin.com/in/srividhya-ranganathan/)
 [![Github srivi15](https://img.shields.io/github/followers/srivi15?label=follow&style=social)](https://github.com/srivi15)
+[![Linkedin: srividhya-ranganathan](https://img.shields.io/badge/-srividhya-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/srividhya-ranganathan/)](https://www.linkedin.com/in/srividhya-ranganathan/)
 
 I am passionately curious about many things including Data science, Machine Learning, AI, and futuristic tech.
 
