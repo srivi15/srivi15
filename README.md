@@ -23,13 +23,23 @@ I am a CS engineering undergrad'21 and an incoming MS CS student. I am passionat
 
 :notes: I am a Melophile. I also sing.
 
+:clapper: Besides tech, reading books, and singing, I also watch movies, series, and animes during my free time.
+
 :microphone: I run a podcast show named "Into the mind of an introvert". You can find the link to various podcast platforms to listen to me [here](https://anchor.fm/sincerelysrivi).
+
+:purple_heart: Spreading positive vibes in my motive. As a dissent, I work againts social injustices and spread awareness on the same. I hope that I will change this world as a good place surely.
+
+Remember,
+
+> You become what you think.
+
 
 ### Contact me:
 
 You can contact me on [Twitter](https://twitter.com/srivisaysso) or [Instagram](https://www.instagram.com/sincerely.srivi/).
 
 
+#### My github stats:
 [![Srividhya's github stats](https://github-readme-stats.vercel.app/api?username=srivi15&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivi15&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
