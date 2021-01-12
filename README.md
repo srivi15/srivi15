@@ -1,14 +1,18 @@
 ![Header](https://github.com/srivi15/srivi15/blob/main/readme_header.png?raw=true)
 
-### Hi there 👋, I am Srividhya.
+# Hi there 👋, I am Srividhya.
 [![Twitter: srivisaysso](https://img.shields.io/twitter/follow/srivisaysso?style=social)](https://twitter.com/srivisaysso)
 [![Linkedin: srividhya-ranganathan](https://img.shields.io/badge/-srividhya-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/srividhya-ranganathan/)](https://www.linkedin.com/in/srividhya-ranganathan/)
 [![Github srivi15](https://img.shields.io/github/followers/srivi15?label=follow&style=social)](https://github.com/srivi15)
 
-I am a CS engineering undergrad'21 and an incoming MS CS student. I am passionately curious about many things including Data science, Machine Learning, AI, and futuristic tech. Besides tech, I am curious to learn anything and everything.
+I am a CS engineering undergrad'21 and an incoming MS CS student. I am passionately curious about many things including Data science, Machine Learning, AI, and futuristic tech. Besides tech, I am curious to learn anything and everything. I believe that I will change the world slowly but surely.
 
-### Facts about me:
+## Facts about me:
 :information_desk_person: pronouns: she/her
+
+:black_nib: I write fictions and poetries in [Wattpad](https://www.wattpad.com/user/Srivi_tells)
+
+
 
 [![Srividhya's github stats](https://github-readme-stats.vercel.app/api?username=srivi15&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivi15&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
