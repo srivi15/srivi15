@@ -1,6 +1,11 @@
 ![Header](https://github.com/srivi15/srivi15/blob/main/readme_header.png?raw=true)
 
-### Hi there 👋
+### Hi there 👋, I am Srividhya.
+[![Twitter: srivisaysso](https://img.shields.io/twitter/follow/srivisaysso?style=social)](https://twitter.com/srivisaysso)
+[![Linkedin: srividhya-ranganathan](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/srividhya-ranganathan/)](https://www.linkedin.com/in/srividhya-ranganathan/)
+[![Github srivi15](https://img.shields.io/github/followers/srivi15?label=follow&style=social)](https://github.com/srivi15)
+
+I am passionately curious about many things including Data science, Machine Learning, AI, and futuristic tech.
 
 [![Srividhya's github stats](https://github-readme-stats.vercel.app/api?username=srivi15&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivi15&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
