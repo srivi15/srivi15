@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/srivi15/srivi15/main/readme_header.png)
+![Header](https://github.com/srivi15/srivi15/blob/main/readme_header.png?raw=true)
 
 ### Hi there 👋
 
