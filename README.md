@@ -6,28 +6,28 @@
 [![Instagram: srividhya](https://img.shields.io/badge/-srividhya-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sincerely.srivi/)](https://www.instagram.com/sincerely.srivi/)
 [![Github srivi15](https://img.shields.io/github/followers/srivi15?label=follow&style=social)](https://github.com/srivi15)
 
-I am a CS engineering undergrad'21 and an incoming MS CS student. I am passionately curious about many things including Data science, Machine Learning, AI, and futuristic tech. Besides tech, I am curious to learn anything and everything. I believe that I will change the world slowly but surely.
+I am a Fall 2021 MS CS student at the University of Texas at Dallas. I am passionately curious about many things including Data science, Machine Learning, AI, and futuristic tech. Besides tech, I am curious to learn anything and everything. I believe that I will change the world slowly but surely.
 
 ## Facts about me:
 :information_desk_person: pronouns: she/her
 
 :key: Skills: Data analytics, Data analysis and visualization, Machine Learning, Web development, Python programming, C programming, Presentation skills, Creativity, Team management, Analytical thinking, Content creation, et cetera.
 
-:dart: Learning: App and game development, Virtual reality. Curious to learn anything and everything.
+:dart: Learning: Virtual Reality. But curious to learn anything and everything.
 
 :pencil: I write articles on both tech and non-technical topics. You can see them on [Medium](https://srivishiv15.medium.com/) as well as [Hashnode](https://srivi4ever.hashnode.dev/)
 
-:books: I love reading self-help and fiction books(genre: rom-coms, slice of life, fantasy, poetry, sci-fi, and some more). You can track my reading path [here](https://www.goodreads.com/user/show/125699372-srividhya).
+:books: I love reading self-help and fiction books. This simply explains me: "I live in two worlds. One is a world of books" - Rory Gilmore.
 
-:black_nib: I write fictions and poetries in [Wattpad](https://www.wattpad.com/user/Srivi_tells)
+:black_nib: I love writing. I write fictions and poetries.
 
 :notes: I am a Melophile. I also sing.
 
-:clapper: Besides tech, reading books, and singing, I also watch movies, series, and animes during my free time.
+:clapper: Besides tech, reading books, and singing, I also watch series, and animes during my free time.
 
-:microphone: I run a podcast show named "Into the mind of an introvert". You can find the link to various podcast platforms to listen to me [here](https://anchor.fm/sincerelysrivi).
+:microphone: I explored the world of podcasts for a little time by running my own podcast show named "Into the mind of an introvert". You can find the link to various podcast platforms to listen to me [here](https://anchor.fm/sincerelysrivi).
 
-:purple_heart: Spreading positive vibes in my motive. As a dissent, I work againts social injustices and spread awareness on the same. I hope that I will change this world as a good place surely.
+:purple_heart: Spreading positive vibes is my motive.
 
 Remember,
 
