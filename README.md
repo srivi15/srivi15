@@ -1,33 +1,28 @@
 ![Header](https://github.com/srivi15/srivi15/blob/main/readme_header.png?raw=true)
 
 # Hi there 👋, I am Srividhya.
-[![Twitter: srivisaysso](https://img.shields.io/twitter/follow/srivisaysso?style=social)](https://twitter.com/srivisaysso)
+[![Twitter: srivified_offl](https://img.shields.io/twitter/follow/srivified_offl?style=social)](https://twitter.com/srivified_offl)
 [![Linkedin: srividhya-ranganathan](https://img.shields.io/badge/-srividhya-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/srividhya-ranganathan/)](https://www.linkedin.com/in/srividhya-ranganathan/)
-[![Instagram: srividhya](https://img.shields.io/badge/-srividhya-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sincerely.srivi/)](https://www.instagram.com/sincerely.srivi/)
 [![Github srivi15](https://img.shields.io/github/followers/srivi15?label=follow&style=social)](https://github.com/srivi15)
 
-I am a Fall 2021 MS CS student at the University of Texas at Dallas. I am passionately curious about many things including Data science, Machine Learning, AI, and futuristic tech. Besides tech, I am curious to learn anything and everything. I believe that I will change the world slowly but surely.
+I am a MS CS student at the University of Texas at Dallas, graduating in May 2023. I am passionately curious about many things including Data science, Machine Learning, and Web development. Besides tech, I am curious to learn anything and everything.
 
 ## Facts about me:
 :information_desk_person: pronouns: she/her
 
 :key: Skills: Data analytics, Data analysis and visualization, Machine Learning, Web development, Python programming, C programming, Presentation skills, Creativity, Team management, Analytical thinking, Content creation, et cetera.
 
-:dart: Learning: Virtual Reality. But curious to learn anything and everything.
+:dart: Currently Learning: Web development
 
 :pencil: I write articles on both tech and non-technical topics. You can see them on [Medium](https://srivishiv15.medium.com/) as well as [Hashnode](https://srivi4ever.hashnode.dev/)
 
-:books: I love reading self-help and fiction books. This simply explains me: "I live in two worlds. One is a world of books" - Rory Gilmore.
+:books: I love reading books. This simply explains me: "I live in two worlds. One is a world of books" - Rory Gilmore.
 
-:black_nib: I love writing. I write fictions and poetries.
+:black_nib: I love writing. I write fiction and poetries.
 
 :notes: I am a Melophile. I also sing.
 
-:clapper: Besides tech, reading books, and singing, I also watch series, and animes during my free time.
-
 :microphone: I explored the world of podcasts for a little time by running my own podcast show named "Into the mind of an introvert". You can find the link to various podcast platforms to listen to me [here](https://anchor.fm/sincerelysrivi).
-
-:purple_heart: Spreading positive vibes is my motive.
 
 Remember,
 
@@ -36,7 +31,7 @@ Remember,
 
 ### Contact me:
 
-You can contact me on [Twitter](https://twitter.com/srivisaysso) or [Instagram](https://www.instagram.com/sincerely.srivi/).
+You can contact me on [Twitter](https://twitter.com/srivified_offl) or [LinkedIn]([https://www.instagram.com/sincerely.srivi/](https://www.linkedin.com/in/srividhya-ranganathan/)).
 
 
 #### My github stats:
