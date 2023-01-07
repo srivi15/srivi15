@@ -31,7 +31,7 @@ Remember,
 
 ### Contact me:
 
-You can contact me on [Twitter](https://twitter.com/srivified_offl) or [LinkedIn]([https://www.instagram.com/sincerely.srivi/](https://www.linkedin.com/in/srividhya-ranganathan/)).
+You can contact me on [Twitter](https://twitter.com/srivified_offl) or [LinkedIn](https://www.linkedin.com/in/srividhya-ranganathan/).
 
 
 #### My github stats:
