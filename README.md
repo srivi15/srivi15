@@ -1,24 +1,21 @@
 ![Header](https://github.com/srivi15/srivi15/blob/main/readme_header.png?raw=true)
 
 # Hi there 👋, I am Srividhya.
-[![Twitter: srivified_offl](https://img.shields.io/twitter/follow/srivified_offl?style=social)](https://twitter.com/srivified_offl)
 [![Linkedin: srividhya-ranganathan](https://img.shields.io/badge/-srividhya-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/srividhya-ranganathan/)](https://www.linkedin.com/in/srividhya-ranganathan/)
 [![Github srivi15](https://img.shields.io/github/followers/srivi15?label=follow&style=social)](https://github.com/srivi15)
 
-I am a MS CS student at the University of Texas at Dallas, graduating in May 2023. I am passionately curious about many things including Data science, Machine Learning, and Web development. Besides tech, I am curious to learn anything and everything.
+I am a Master's in Computer Science student at the University of Texas at Dallas, graduating in May 2023. I am passionately curious about many things including Data science, Machine Learning, and Web development. Besides tech, I am always looking forward to new learning experiences.
 
 ## Facts about me:
 :information_desk_person: pronouns: she/her
 
-:key: Skills: Data analytics, Data analysis and visualization, Machine Learning, Web development, Python programming, C programming, Presentation skills, Creativity, Team management, Analytical thinking, Content creation, et cetera.
+:key: Skills: Data analytics, Data analysis and visualization, Machine Learning, Power BI, Web development, Python programming, C, Power BI, Azure/AWS, Analytical thinking, Creative Writing, et cetera.
 
-:dart: Currently Learning: Web development
+:pencil: I write articles on both tech and non-technical topics. You can see them on [Medium](https://srivishiv15.medium.com/) 
 
-:pencil: I write articles on both tech and non-technical topics. You can see them on [Medium](https://srivishiv15.medium.com/) as well as [Hashnode](https://srivi4ever.hashnode.dev/)
+:books: I love reading books. This line simply explains me: "I live in two worlds. One is a world of books" - Rory Gilmore.
 
-:books: I love reading books. This simply explains me: "I live in two worlds. One is a world of books" - Rory Gilmore.
-
-:black_nib: I love writing. I write fiction and poetries.
+:black_nib: Writing is one of my interests. I write fiction and poetry.
 
 :notes: I am a Melophile. I also sing.
 
@@ -31,7 +28,7 @@ Remember,
 
 ### Contact me:
 
-You can contact me on [Twitter](https://twitter.com/srivified_offl) or [LinkedIn](https://www.linkedin.com/in/srividhya-ranganathan/).
+You can contact me on [LinkedIn](https://www.linkedin.com/in/srividhya-ranganathan/).
 
 
 #### My github stats:
