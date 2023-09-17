@@ -1,7 +1,8 @@
 # Hi there 👋, I am Srividhya.
 [![Linkedin: srividhya-ranganathan](https://img.shields.io/badge/-srividhya-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/srividhya-ranganathan/)](https://www.linkedin.com/in/srividhya-ranganathan/)
 [![Github srivi15](https://img.shields.io/github/followers/srivi15?label=follow&style=social)](https://github.com/srivi15)
-[![Twitter](https://img.shields.io/twitter/followers/diyasays_101?label=follow&style=social)](https://twitter.com/diyasays_101)
+[![Twitter diyasays_101](https://img.shields.io/twitter/follow/:diyasays_101
+)](https://twitter.com/diyasays_101)
 
 I am a Master's in Computer Science Graduate from the University of Texas at Dallas. I am passionately curious about many things including Data science, Machine Learning, and Web development. I am always looking forward to new learning opportunities and professional experiences.
 
@@ -28,8 +29,8 @@ Remember,
 ### Contact me:
 
 You can find me on 
-[LinkedIn](https://www.linkedin.com/in/srividhya-ranganathan/),
-[Twitter](https://twitter.com/diyasays_101),
+[LinkedIn](https://www.linkedin.com/in/srividhya-ranganathan/)
+[Twitter](https://twitter.com/diyasays_101)
 [Tableau](https://public.tableau.com/app/profile/srividhya.ranganathan6746)
 
 
