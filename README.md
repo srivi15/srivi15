@@ -28,8 +28,8 @@ Remember,
 ### Contact me:
 
 You can find me on 
-[LinkedIn](https://www.linkedin.com/in/srividhya-ranganathan/)
-[Twitter](https://twitter.com/diyasays_101)
+[LinkedIn](https://www.linkedin.com/in/srividhya-ranganathan/),
+[Twitter](https://twitter.com/diyasays_101),
 [Tableau](https://public.tableau.com/app/profile/srividhya.ranganathan6746)
 
 
