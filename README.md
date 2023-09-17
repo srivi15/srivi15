@@ -1,15 +1,16 @@
 # Hi there 👋, I am Srividhya.
 [![Linkedin: srividhya-ranganathan](https://img.shields.io/badge/-srividhya-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/srividhya-ranganathan/)](https://www.linkedin.com/in/srividhya-ranganathan/)
 [![Github srivi15](https://img.shields.io/github/followers/srivi15?label=follow&style=social)](https://github.com/srivi15)
+[![Twitter diyasays_101](https://twitter.com/diyasays_101)
 
 I am a Master's in Computer Science Graduate from the University of Texas at Dallas. I am passionately curious about many things including Data science, Machine Learning, and Web development. I am always looking forward to new learning opportunities and professional experiences.
 
 ## Facts about me:
 :information_desk_person: pronouns: she/her
 
-:key: Skills: Data analytics, Data analysis and visualization, Machine Learning, Power BI, Web development, Python programming, C, Power BI, Azure/AWS, Analytical thinking, Creative Writing, et cetera.
+:key: Skills: Data analytics, Data analysis and visualization, Machine Learning, Power BI, Web development, Python programming, C, Tableau, Azure/AWS, Analytical thinking, Creative Writing, et cetera.
 
-:pencil: I write articles on both tech and non-technical topics. You can see them on [Medium](https://srivishiv15.medium.com/) 
+:pencil: I write articles on both tech and non-technical topics. You can find them on [Medium](https://srivishiv15.medium.com/) 
 
 :books: I love reading books. This line simply explains me: "I live in two worlds. One is a world of books" - Rory Gilmore.
 
@@ -26,7 +27,11 @@ Remember,
 
 ### Contact me:
 
-You can contact me on [LinkedIn](https://www.linkedin.com/in/srividhya-ranganathan/).
+You can find me on 
+[LinkedIn](https://www.linkedin.com/in/srividhya-ranganathan/)
+[Twitter](https://twitter.com/diyasays_101)
+[Tableau](https://public.tableau.com/app/profile/srividhya.ranganathan6746)
+
 
 
 #### My github stats:
