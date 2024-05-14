@@ -6,6 +6,8 @@
 
 I am a Master's in Computer Science Graduate from the University of Texas at Dallas. I am passionately curious about many things including Data science, Machine Learning, and Web development. I am always looking forward to new learning opportunities and professional experiences.
 
+You can find my works and projects here at [https://bento.me/srivi](https://bento.me/srivi)
+
 ## Facts about me:
 :information_desk_person: pronouns: she/her
 
